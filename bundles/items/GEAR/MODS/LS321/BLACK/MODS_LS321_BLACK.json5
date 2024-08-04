@@ -1,0 +1,25 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Holosun LS321 Tactical device flashlight (Black)",
+	"type": "RETEXTURE",
+    "shortName": "LS321",
+    "description": "Holosun LS321 is a multi-laser tactical device with green laser in the visible light spectrum, IR laser and IR searchlight. Black version.",
+
+    "baseItemID": "57fd23e32459772d0805bcf1",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/textures/holemanager/glow_particle_bright.bundle",
+            "assets/standard assets/effects/lightcookies/textures/flashlightcookie.bundle",
+            "assets/systems/effects/collimator.bundle",
+            "assets/systems/effects/laserbeam/laser.bundle",
+            "assets/systems/effects/multiflare/multiflare.bundle",
+            "assets/systems/effects/nightvision.bundle",
+            "cubemaps",
+            "shaders"
+    ],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

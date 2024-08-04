@@ -1,0 +1,25 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "AN/PEQ-15 tactical device (Black)",
+	"type": "RETEXTURE",
+    "shortName": "AN/PEQ-15",
+    "description": "The Advanced Target Pointer Illuminator Aiming Laser (ATPIAL) produced by L3 Technologies is a rugged, combat-proven and easy-to-use aiming system with integrated infrared and visible aim lasers as well as an infrared illuminator. Black version.",
+
+    "baseItemID": "544909bb4bdc2d6f028b4577",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/textures/holemanager/glow_particle_bright.bundle",
+            "assets/standard assets/effects/lightcookies/textures/flashlightcookie.bundle",
+            "assets/systems/effects/collimator.bundle",
+            "assets/systems/effects/laserbeam/laser.bundle",
+            "assets/systems/effects/multiflare/multiflare.bundle",
+            "assets/systems/effects/nightvision.bundle",
+            "cubemaps",
+            "shaders"
+    ],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

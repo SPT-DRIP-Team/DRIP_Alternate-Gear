@@ -1,0 +1,24 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Insight WMX200 tactical flashlight (Black)",
+	"type": "RETEXTURE",
+    "shortName": "WMX200",
+    "description": "The WMX200 tactical flashlight manufactured by Insight Technologies, which combines a conventional flashlight and an IR searchlight. Black version.",
+
+    "baseItemID": "544909bb4bdc2d6f028b4577",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/hands/bear/bear_hands_watch_texture.bundles",
+            "assets/content/hands/bear/bear_watch.bundle",
+            "assets/standard assets/effects/lightcookies/textures/flashlightcookie.bundle",
+            "assets/systems/effects/multiflare/multiflare.bundle",
+            "assets/systems/effects/nightvision.bundle",
+            "cubemaps",
+            "shaders"
+    ],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

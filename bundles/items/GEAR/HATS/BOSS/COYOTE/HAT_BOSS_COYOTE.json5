@@ -1,0 +1,24 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Backwards cap (Coyote)",
+	"type": "RETEXTURE",
+    "shortName": "Cap",
+    "description": "A baseball cap often worn backwards by the most hardcore of operators. Who needs a visor when you have shades? Coyote version.",
+
+    "baseItemID": "60a7acf20c5cb24b01346648",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps"
+    ],
+    "copyAssort": false,
+    "addToBots": true,
+    "weightingMult": 1.0,
+
+    "loyaltyLevel": 1,
+    "price": {
+        "currency": "RUB",
+        "amount": 600,
+    },
+}

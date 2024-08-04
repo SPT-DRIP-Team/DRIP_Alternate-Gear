@@ -1,0 +1,19 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Walker's Razor Digital headset (Black)",
+	"type": "RETEXTURE",
+    "shortName": "Razor",
+    "description": "The Razor electronic ear muffs feature an ultra low-profile design and a rubberized coating for added durability and comfort, also providing optimal hearing protection. Manufactured by Walker's. Black version.",
+
+    "baseItemID": "5e4d34ca86f774264f758330",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

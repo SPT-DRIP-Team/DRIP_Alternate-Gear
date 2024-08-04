@@ -1,0 +1,19 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Cold Fear infrared balaclava (Coyote)",
+	"type": "RETEXTURE",
+    "shortName": "CF",
+    "description": "A quality balaclava with a special technological material, which ensures maximum warmth in the most severe frosts. But we do not need it for warmth. We need it to look tactical. Coyote version.",
+
+    "baseItemID": "5ab8f39486f7745cd93a1cca",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

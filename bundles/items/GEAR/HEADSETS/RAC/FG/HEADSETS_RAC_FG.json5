@@ -1,0 +1,19 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Ops-Core FAST RAC Headset (Foliage Green)",
+	"type": "RETEXTURE",
+    "shortName": "RAC",
+    "description": "A component for the Ops-Core FAST helmet - a system of noise reduction and amplification of quiet sounds, as well as a radio headset when connected to the communication device. Foliage Green version.",
+
+    "baseItemID": "5a16b9fffcdbcb0176308b34",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

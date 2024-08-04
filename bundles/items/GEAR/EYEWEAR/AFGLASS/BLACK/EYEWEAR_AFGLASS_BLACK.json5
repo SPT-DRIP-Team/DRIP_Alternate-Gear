@@ -1,0 +1,25 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Anti-fragmentation glasses (Black)",
+	"type": "RETEXTURE",
+    "shortName": "AFGlass",
+    "description": "These anti-fragmentation glasses are designed to protect the eyes and part of user's face from shell fragments, drops of chemically aggressive liquids and oils, coarsely dispersed aerosols, thermal factors, atmospheric influences, and mechanical damages in all types of combat operations and during daily activities. Black version.",
+
+    "baseItemID": "59e770b986f7742cbd762754",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": false,
+    "addToBots": true,
+    "weightingMult": 1.0,
+	
+	"loyaltyLevel": 1,
+    "price": {
+        "currency": "RUB",
+        "amount": 1620,
+    },
+}

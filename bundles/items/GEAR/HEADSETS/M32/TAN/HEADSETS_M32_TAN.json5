@@ -1,0 +1,19 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "OPSMEN Earmor M32 headset (Tan)",
+	"type": "RETEXTURE",
+    "shortName": "M32",
+    "description": "The EARMOR M32 headset is an activated electronic communication hearing protector, ideal for tactical use. Manufactured by OPSMEN. Tan version.",
+
+    "baseItemID": "6033fa48ffd42c541047f728",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}
